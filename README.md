@@ -5,5 +5,6 @@ I'm also interested by every programming langage but most importantly, i'm curio
 
 - 📫 How to reach me: brian.alibali@gmail.com | contact@monbry.com
 
+### My Daily.dev card : 
 <a href="https://app.daily.dev/Bry"><img src="https://api.daily.dev/devcards/a2212a9ea790432eb60b94bc0cc26809.png?r=6fh" width="400" alt="Bry's Dev Card"/></a>
 
